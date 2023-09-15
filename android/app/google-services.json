@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1093070307581",
+    "project_id": "fotografia-30d53",
+    "storage_bucket": "fotografia-30d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093070307581:android:68800ab567bd91a4c63e94",
+        "android_client_info": {
+          "package_name": "com.example.fotografia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093070307581-cg7qnkd4vlromh3ula78s2p3uu80othm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMo6wodz9ng7eEMu6l_Ncd2R1PKZvx4iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093070307581-cg7qnkd4vlromh3ula78s2p3uu80othm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093070307581-39sfin6ads8njqbght10eliot7rai57i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fotografia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
